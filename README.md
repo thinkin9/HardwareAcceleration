@@ -8,5 +8,5 @@
 * archive: poster
 
 ### Poster
-![alt text](Archive/poster.jpg)
-[download pdf file](Archive/poster.pdf)
+![alt text](archive/poster.jpg)
+[download pdf file](archive/poster.pdf)
