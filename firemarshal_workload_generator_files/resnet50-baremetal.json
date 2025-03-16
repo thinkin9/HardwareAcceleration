@@ -1,0 +1,8 @@
+{
+	"benchmark_name": "resnet50-baremetal",
+	"common_simulation_outputs": [
+		"uartlog"
+	],
+	"common_bootbinary": "../../../../../software/tutorial/overlay/root/resnet50-baremetal",
+	"common_rootfs": "../../../../../software/firemarshal/boards/default/installers/firesim/dummy.rootfs"
+}
